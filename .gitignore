@@ -1,8 +1,11 @@
-##.idea
+##
+.idea
 
-out/
+*_out/
 .iml
-.idea/
+*_idea/
+*_.idea/
+
 # IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
